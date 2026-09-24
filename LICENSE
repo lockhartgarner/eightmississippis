@@ -1,0 +1,32 @@
+Mississippi Brain Drain Visualizer — eightmississippis.com
+
+Copyright (c) 2026 Thomas Lockhart Garner
+
+The text, figures, design and analysis in this work are licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+SPDX-License-Identifier: CC-BY-4.0
+Full legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+Summary:        https://creativecommons.org/licenses/by/4.0/
+
+You are free to share and adapt this material for any purpose, including
+commercially, provided you give appropriate credit, link to the license, and
+indicate if changes were made.
+
+SUGGESTED CITATION
+  Garner, T. L. (2026). Eight Mississippis: how brain drain differs across the
+  state's workforce ecosystems [interactive visualization].
+  https://eightmississippis.com
+
+WHAT THIS LICENSE DOES NOT COVER
+  - U.S. Census Bureau American Community Survey estimates and Cartographic
+    Boundary Files. These are works of the United States government and are not
+    subject to copyright protection in the United States. No permission is
+    needed to reuse them.
+  - Third-party software and fonts embedded in the page (D3, BSD 3-Clause;
+    Archivo, IBM Plex Mono and Source Sans 3, SIL Open Font License 1.1). Their
+    notices and license texts are in THIRD-PARTY-LICENSES.txt and continue to
+    apply under their own terms.
+  - The AccelerateMS ecosystem framework and the report "2022 Mississippi: The
+    Road Ahead", which remain the property of their authors. Only the factual
+    county-to-ecosystem assignments are used here.
